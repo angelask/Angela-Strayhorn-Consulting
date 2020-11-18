@@ -1,1 +1,0 @@
-# Angela-Strayhorn-Consulting
