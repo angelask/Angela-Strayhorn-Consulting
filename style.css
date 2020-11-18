@@ -56,5 +56,10 @@ div.box {
 }
  .container { 
      background-color: lightpink; 
-    
  } 
+.container-fluid {
+    background-color: lightpink;
+}
+ .main-body {
+     background-color: lightpink;
+ }
